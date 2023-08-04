@@ -8,6 +8,7 @@ public class Main {
         Lamp1.setColor("blue");
         Lamp2.size(6, 6);
         Lamp2.changeLight(true);
+        Lamp2.changeLight(false);
 
         
 
