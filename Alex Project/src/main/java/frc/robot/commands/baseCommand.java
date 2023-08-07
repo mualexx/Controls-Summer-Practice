@@ -40,7 +40,7 @@ public class baseCommands extends CommandBase{
 
     @Override
     public boolean isFinished(){
-        return lastRPM = 50;
+        return lastRPM == 50;
     }
 
     @Override
